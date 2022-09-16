@@ -1,0 +1,2 @@
+graph: graph.chpl
+	chpl $<
